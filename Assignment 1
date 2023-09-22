@@ -1,6 +1,8 @@
 <html>
 <head>
-
-<titleGues the person, place or thing</title>
+ <div class="picture2">
+<img src="lucky block.jpeg" onclick = "this.src = 'brooklyn nets.jpeg';" width="45%" style="border: 2px white solid;"> 
+</div>
+<title>Guess the person, place or thing</title>
 </head>
 </html>
