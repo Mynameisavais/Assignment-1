@@ -1,8 +1,20 @@
 <html>
 <head>
- <div class="picture2">
-<img src="lucky block.jpeg" onclick = "this.src = 'brooklyn nets.jpeg';" width="45%" style="border: 2px white solid;"> 
-</div>
-<title>Guess the person, place or thing</title>
+<title>Guess the person, place, or thing</title>
 </head>
+<style type="text/css">
+table,th,td{
+border: 1px solid black;
+}
+</style>
+<body>
+<table>
+<thead>
+<tr>
+<th><img src="lucky block.jpeg" onclick = "this.src = 'basketball.jpeg';" width="100%" style="border: 2px white solid;"> </th>
+<th><img src="lucky block.jpeg" onclick = "this.src = 'brooklyn nets.jpeg';" width="100%" style="border: 2px white solid;"></th>
+<th>
+</tr>
+</thead>
+     
 </html>
