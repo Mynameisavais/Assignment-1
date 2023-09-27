@@ -13,7 +13,11 @@ border: 1px solid black;
 <tr>
 <th><img src="lucky block.jpeg" onclick = "this.src = 'basketball.jpeg';" width="100%" style="border: 2px white solid;"> </th>
 <th><img src="lucky block.jpeg" onclick = "this.src = 'brooklyn nets.jpeg';" width="100%" style="border: 2px white solid;"></th>
-<th>
+<th><h1 onclick = "this.innerHTML = '6 foot 2 inches'; this.style='color: red;';" ondblclick = "this.innerHTML = '????????'; this.style='color: navy;';">????????</h1></th>
+</tr>
+<tr>
+<th><img src="lucky block.jpeg" onclick = "this.src = 'duke.jpeg';" width="100%" style="border: 2px white solid;"></th>
+<th><h1 onclick = "this.innerHTML = 'point guard'; this.style='color: red;';" ondblclick = "this.innerHTML = '????????'; this.style='color: navy;';">????????</h1></th>
 </tr>
 </thead>
      
