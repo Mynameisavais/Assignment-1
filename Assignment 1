@@ -4,7 +4,7 @@
 </head>
 <style type="text/css">
 table,th,td{
-border: 1px solid black;
+border: 5px solid black;
 }
 </style>
 <body>
@@ -18,7 +18,15 @@ border: 1px solid black;
 <tr>
 <th><img src="lucky block.jpeg" onclick = "this.src = 'duke.jpeg';" width="100%" style="border: 2px white solid;"></th>
 <th><h1 onclick = "this.innerHTML = 'point guard'; this.style='color: red;';" ondblclick = "this.innerHTML = '????????'; this.style='color: navy;';">????????</h1></th>
+<th><img src="lucky block.jpeg" onclick = "this.src = 'mavericks.jpeg';" width="100%" style="border: 2px white solid;"></th>
+</tr>
+<tr>
+<th><h1 onclick = "this.innerHTML = 'started playing in 2011'; this.style='color: red;';" ondblclick = "this.innerHTML = '????????'; this.style='color: navy;';">????????</h1></th>
+<th><img src="lucky block.jpeg" onclick = "this.src = 'celtics.jpeg';" width="100%" style="border: 2px white solid;"></th>
+<th><h1 onclick = "this.innerHTML = '31 years old'; this.style='color: red;';" onclick = "this.innerHTML = '????????'; this.style='color: navy;';">????????</h1></th>.
 </tr>
 </thead>
+
+
      
 </html>
