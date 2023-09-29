@@ -11,20 +11,26 @@ border: 5px solid black;
 <table>
 <thead>
 <tr>
-<th><img src="lucky block.jpeg" onclick = "this.src = 'basketball.jpeg';" width="100%" style="border: 2px white solid;"> </th>
-<th><img src="lucky block.jpeg" onclick = "this.src = 'brooklyn nets.jpeg';" width="100%" style="border: 2px white solid;"></th>
-<th><h1 onclick = "this.innerHTML = '6 foot 2 inches'; this.style='color: red;';" ondblclick = "this.innerHTML = '????????'; this.style='color: navy;';">????????</h1></th>
+<th><img src="rectangle.jpeg" width="400" height="1"><img src="lucky block.jpeg" onclick = "this.src = 'basketball.jpeg';" width="100%" style="border: 2px white solid;"></th>
+<th><img.src="rectangle.jpeg"<img src="rectangle.jpeg" width="400" height="1"><img src="lucky block.jpeg" onclick = "this.src = 'brooklyn nets.jpeg';" width="100%" style="border: 2px white solid;"></th>
+<th><img src="rectangle.jpeg" width="400" height="1"><h1 onclick = "this.innerHTML = '6 foot 2 inches'; this.style='color: red;';" ondblclick = "this.innerHTML = '????????'; this.style='color: navy;';">????????</h1></th>
 </tr>
 <tr>
-<th><img src="lucky block.jpeg" onclick = "this.src = 'duke.jpeg';" width="100%" style="border: 2px white solid;"></th>
-<th><h1 onclick = "this.innerHTML = 'point guard'; this.style='color: red;';" ondblclick = "this.innerHTML = '????????'; this.style='color: navy;';">????????</h1></th>
-<th><img src="lucky block.jpeg" onclick = "this.src = 'mavericks.jpeg';" width="100%" style="border: 2px white solid;"></th>
+<th><img src="rectangle.jpeg" width="300" height="1"><img src="lucky block.jpeg" onclick = "this.src = 'duke.jpeg';" width="100%" style="border: 2px white solid;"></th>
+<th><img src="rectangle.jpeg" width="400" height="1"><h1 onclick = "this.innerHTML = 'Point guard'; this.style='color: red;';" ondblclick = "this.innerHTML = '????????'; this.style='color: navy;';">????????</h1></th>
+<th><img src="rectangle.jpeg" width="300" height="1"><img src="lucky block.jpeg" onclick = "this.src = 'mavericks.jpeg';" width="100%" style="border: 2px white solid;"></th>
 </tr>
 <tr>
-<th><h1 onclick = "this.innerHTML = 'started playing in 2011'; this.style='color: red;';" ondblclick = "this.innerHTML = '????????'; this.style='color: navy;';">????????</h1></th>
-<th><img src="lucky block.jpeg" onclick = "this.src = 'celtics.jpeg';" width="100%" style="border: 2px white solid;"></th>
-<th><h1 onclick = "this.innerHTML = '31 years old'; this.style='color: red;';" onclick = "this.innerHTML = '????????'; this.style='color: navy;';">????????</h1></th>.
+<th><img src="rectangle.jpeg" width="400" height="1"><h1 onclick = "this.innerHTML = 'Started playing in 2011'; this.style='color: red;';" ondblclick = "this.innerHTML = '????????'; this.style='color: navy;';">????????</h1></th>
+<th><img src="rectangle.jpeg" width="300" height="1"><img src="lucky block.jpeg" onclick = "this.src = 'celtics.jpeg';" width="100%" style="border: 2px white solid;"></th>
+<th><img src="rectangle.jpeg" width="400" height="1"><h1 onclick = "this.innerHTML = '31 years old'; this.style='color: red;';" onclick = "this.innerHTML = '????????'; this.style='color: navy;';">????????</h1></th>.
 </tr>
+<tr>
+<th></th>
+<th><h1 onclick = "this.innerHTML = 'Kyrie Irving'; this.style='color: red;';" ondblclick = "this.innerHTML = 'Click for the answer'; this.style='color: navy;';">Click for the answer</h1></th>
+<th></th>
+</tr>
+
 </thead>
 
 
