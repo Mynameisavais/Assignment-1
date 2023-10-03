@@ -2,12 +2,13 @@
 <head>
 <title>Guess the person, place, or thing</title>
 </head>
+<center>
 <style type="text/css">
 table,th,td{
 border: 5px solid black;
 }
 </style>
-<body>
+<body style="background-image: url('galaxy.jpeg');">
 <table>
 <thead>
 <tr>
@@ -32,6 +33,7 @@ border: 5px solid black;
 </tr>
 
 </thead>
+</center>
 
 
      
